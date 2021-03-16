@@ -3,8 +3,8 @@
  * Auto generated Run-Time-Environment Configuration File
  *      *** Do not modify ! ***
  *
- * Project: 'PELabaRack' 
- * Target:  'PELabaRack_CM7' 
+ * Project: 'PE_McuConfig' 
+ * Target:  'PE_McuConfig_CM7' 
  */
 
 #ifndef RTE_COMPONENTS_H
