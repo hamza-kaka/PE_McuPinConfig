@@ -1,0 +1,1 @@
+- default MCU pin configuration for PE lab, encompassing all peripherals used 
